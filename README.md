@@ -1,2 +1,0 @@
-# GitTest
-Haladok előre- talán
